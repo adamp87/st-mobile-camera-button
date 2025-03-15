@@ -1,0 +1,2 @@
+# Include all files in the frontend directory
+recursive-include st_mobile_camera_button/frontend *
